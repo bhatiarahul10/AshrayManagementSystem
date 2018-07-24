@@ -13125,11 +13125,11 @@
       "hideWarningsAndErrors": true
     },
     "restore": {
-      "projectUniqueName": "C:\\Users\\Rahul Bhatia\\source\\repos\\DYPH_Registration\\WebApplication1\\AshrayManagement System.csproj",
-      "projectName": "AshrayManagement System",
-      "projectPath": "C:\\Users\\Rahul Bhatia\\source\\repos\\DYPH_Registration\\WebApplication1\\AshrayManagement System.csproj",
+      "projectUniqueName": "C:\\Users\\Rahul Bhatia\\source\\repos\\DYPH_Registration\\WebApplication1\\AshrayManagementSystem\\AshrayManagementSystem.csproj",
+      "projectName": "AshrayManagementSystem",
+      "projectPath": "C:\\Users\\Rahul Bhatia\\source\\repos\\DYPH_Registration\\WebApplication1\\AshrayManagementSystem\\AshrayManagementSystem.csproj",
       "packagesPath": "C:\\Users\\Rahul Bhatia\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Rahul Bhatia\\source\\repos\\DYPH_Registration\\WebApplication1\\obj\\",
+      "outputPath": "C:\\Users\\Rahul Bhatia\\source\\repos\\DYPH_Registration\\WebApplication1\\AshrayManagementSystem\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
