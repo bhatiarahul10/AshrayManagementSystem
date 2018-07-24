@@ -1,0 +1,11 @@
+C:\Users\Rahul Bhatia\source\repos\DYPH_Registration\WebApplication1\obj\Debug\netcoreapp2.0\AshrayManagement System.csproj.CoreCompileInputs.cache
+C:\Users\Rahul Bhatia\source\repos\DYPH_Registration\WebApplication1\obj\Debug\netcoreapp2.0\UserSecretsAssemblyInfo.cs
+C:\Users\Rahul Bhatia\source\repos\DYPH_Registration\WebApplication1\obj\Debug\netcoreapp2.0\AshrayManagement System.AssemblyInfoInputs.cache
+C:\Users\Rahul Bhatia\source\repos\DYPH_Registration\WebApplication1\obj\Debug\netcoreapp2.0\AshrayManagement System.AssemblyInfo.cs
+C:\Users\Rahul Bhatia\source\repos\DYPH_Registration\WebApplication1\bin\Debug\netcoreapp2.0\AshrayManagement System.deps.json
+C:\Users\Rahul Bhatia\source\repos\DYPH_Registration\WebApplication1\bin\Debug\netcoreapp2.0\AshrayManagement System.runtimeconfig.json
+C:\Users\Rahul Bhatia\source\repos\DYPH_Registration\WebApplication1\bin\Debug\netcoreapp2.0\AshrayManagement System.runtimeconfig.dev.json
+C:\Users\Rahul Bhatia\source\repos\DYPH_Registration\WebApplication1\bin\Debug\netcoreapp2.0\AshrayManagement System.dll
+C:\Users\Rahul Bhatia\source\repos\DYPH_Registration\WebApplication1\bin\Debug\netcoreapp2.0\AshrayManagement System.pdb
+C:\Users\Rahul Bhatia\source\repos\DYPH_Registration\WebApplication1\obj\Debug\netcoreapp2.0\AshrayManagement System.dll
+C:\Users\Rahul Bhatia\source\repos\DYPH_Registration\WebApplication1\obj\Debug\netcoreapp2.0\AshrayManagement System.pdb
